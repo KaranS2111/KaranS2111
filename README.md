@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **gen ai, ml, data sci, dl**
 
-- 📫 How to reach me **ucankaran@gmail.com**
+- 📫 How to reach me **karan.sardar2111@gmail.com**
 
 - ⚡ Fun fact **I love to build products.**
 
