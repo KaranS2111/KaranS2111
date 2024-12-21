@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan Sardar</h1>
-<h3 align="center">A passionate Machine Learning Enthusiast from India.</h3>
+<h3 align="center">A passionate Data Freak from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karans211&label=Profile%20views&color=0e75b6&style=flat" alt="karans211" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://www.quora.com/profile/Karan-Sardar-14](https://www.quora.com/profile/Karan-Sardar-14)
 
-- 💬 Ask me about **gen ai, ml, data sci, dl**
+- 💬 Ask me about **gen ai, ml, data sci, dl, analytics**
 
 - 📫 How to reach me **karan.sardar2111@gmail.com**
 
