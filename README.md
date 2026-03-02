@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 This is Karan Sardar, Final year @IITR:
 🌱 I’m currently learning Agentic AI, Backend, and ML System Design.<br>💬 Ask me about gen ai, ml, data sci, dl, analytics<br>📫 You can reach me at karan.sardar2111@gmail.com<br>⚡ Fun fact I love to build products.
 
 
@@ -12,8 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=KaranS2111&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranS2111&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KaranS2111&theme=cobalt&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
