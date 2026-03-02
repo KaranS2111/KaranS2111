@@ -1,5 +1,5 @@
 # 💫 This is Karan Sardar, Final year @IITR:
-🌱 I’m currently learning Agentic AI, Backend, and ML System Design.<br>💬 Ask me about gen ai, ml, data sci, dl, analytics<br>📫 You can reach me at karan.sardar2111@gmail.com<br>⚡ Fun fact I love to build products.
+🌱 I’m currently learning Agentic AI, Backend, and ML System Design.<br>💬 Ask me about gen ai, ml, data sci, dl, analytics<br>📫 You can reach me at karan.sardar2111@gmail.com<br>⚡ Fun fact : I love to build products.
 
 
 ## 🌐 Socials:
